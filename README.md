@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Ansh 👋
 
-<!--
-**Ansh-0777/Ansh-0777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Graduate  
+💻 Web Developer (Shopify & Wix)  
+🌱 Currently learning JavaScript & Full-Stack Development  
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- HTML, CSS, JavaScript
+- Shopify Theme Customization
+- Wix Website Development
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- College Final Year Project
+- Shopify Store Websites
+- Wix Business Websites
+
+📫 Reach me: LinkedIn (https://in.linkedin.com/in/ansh-patel-205aab282)
