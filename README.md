@@ -17,7 +17,7 @@
 
 📫 Reach me: LinkedIn (https://in.linkedin.com/in/ansh-patel-205aab282)
 
-<h1 align="center">Hi 👋, I'm <ANSH></h1>
+<h1 align="center">Hi 👋, I'm ANSH</h1>
 <h3 align="center">Computer Engineering Graduate | Web Developer | Aspiring AI/ML & Full-Stack Developer</h3>
 
 <p align="center">
@@ -42,7 +42,9 @@
 ### 📌 Featured Projects
 
 - 🎓 **[Student Performance Prediction](https://github.com/Ansh-0777/Student-Performance-Prediction)** - A machine learning pipeline (Linear Regression, Decision Tree, Random Forest) that predicts student academic performance from study habits, attendance, and lifestyle factors, with an interactive Streamlit app.
-- 💼 **[College Final Year Project](https://github.com/Ansh-0777/college_management_system)** - <one-line description>
+- 💼 **[College Final Year Project](https://github.com/Ansh-0777/college_management_system)** -  College Management System using PHP, 
+Laravel, HTML, CSS, JavaScript, and MySQL. The system was designed to support multiple user roles, including 
+administrators, teachers, students, and parents, each having dedicated access permissions and functionalities.
 - 🛍️ **Shopify Store Websites** - Custom theme development and storefront builds for e-commerce clients.
 - 🌐 **Wix Business Websites** - Designed and launched business websites using Wix.
 
