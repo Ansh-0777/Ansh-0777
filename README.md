@@ -1,22 +1,3 @@
-## Hi, I'm Ansh 👋
-
-🎓 Computer Engineering Graduate  
-💻 Web Developer (Shopify & Wix)  
-🌱 Currently learning JavaScript & Full-Stack Development  
-
-### 🔧 Skills
-- HTML, CSS, JavaScript
-- Shopify Theme Customization
-- Wix Website Development
-- Git & GitHub
-
-### 📌 Projects
-- College Final Year Project
-- Shopify Store Websites
-- Wix Business Websites
-
-📫 Reach me: LinkedIn (https://in.linkedin.com/in/ansh-patel-205aab282)
-
 <h1 align="center">Hi 👋, I'm ANSH</h1>
 <h3 align="center">Computer Engineering Graduate | Web Developer | Aspiring AI/ML & Full-Stack Developer</h3>
 
@@ -60,8 +41,4 @@ administrators, teachers, students, and parents, each having dedicated access pe
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://in.linkedin.com/in/ansh-patel-205aab282)
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
